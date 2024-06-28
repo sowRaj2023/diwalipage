@@ -1,0 +1,40 @@
+.bg-container{
+background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+height: 30vh;
+background-size: cover;
+color: white;
+}
+
+.heading{
+    font-size: 43px;
+    font-family: "Bree sherif";
+    font-weight: 200;
+    width: 200;
+    
+}
+.bottom-container{
+    height: 70vh;
+    background-color: lightslategray;
+    padding: 10px;
+}
+.heading{
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+}
+.paragraph{
+    font-size: 20px;
+    color: black;
+}
+.image{
+    height: 150px;
+    width:  150px;
+    text-align: center;
+}
+.container{
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
